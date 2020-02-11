@@ -23,7 +23,7 @@ $ nodemon app.js
 
 6. Acesse [http://localhost:3000](http://localhost:3000) .
 
-![ToDoList](https://imgur.com/a/awOT5Fv)
+![ToDoList](https://i.imgur.com/HCnhCzK.png)
 
 ## O que se utilizou na criação do ToDoList?
 **Front End**
