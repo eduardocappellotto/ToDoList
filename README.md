@@ -2,6 +2,10 @@
 
 Implementação de uma To-do-list que busca servir como objeto de estudo de um sistema web. 
 
+## Aplicação rodando no heroku e hospedada no MongoDB Atlas: 
+
+https://todolist-cappellotto.herokuapp.com/
+
 ## Instalação
 
 1. Abra seu terminal GitBash
